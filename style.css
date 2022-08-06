@@ -27,7 +27,7 @@ body {
 .container {
     width: fit-content;
     text-align: center;
-    margin: auto;
+    margin-left: 300px;
 }
 
 .container__texto {
@@ -71,7 +71,8 @@ body {
     align-items: center;
     flex-direction: column;
     column-gap: 80px;
-    padding: 40px;
+    padding: 20px;
+    margin-left: 100px;
 }
 
 .esquerda__info {
@@ -138,7 +139,7 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    padding: 40px;
+    padding: 20px;
 }
 
 .linguagens {
